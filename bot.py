@@ -100,7 +100,6 @@ class LogBot(irc.IRCClient):
         channels = aChans.split(",")
         chan = pChan
         self.msg(chan, psaMessage)
-        self.msg(chan, psaMessage)
         for chan in channels:
             self.msg(chan, psaMessage)
             if logPSA == True:
