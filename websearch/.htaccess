@@ -1,0 +1,5 @@
+Options +ExecCGI -Indexes
+DirectoryIndex archive.php
+DefaultLanguage en-US
+AddDefaultCharset UTF-8
+ServerSignature Off

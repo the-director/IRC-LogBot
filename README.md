@@ -1,7 +1,7 @@
 IRC-LogBot
 ==========
 
-Framework for simple IRC logging and web searching.
+Framework for simple IRC logging and web searching.  A basic starting point as further security *should* be applied in production.
 
 
 Bot logs Entries, exits, disconnects, and PM's to and from into a MySQL Database
